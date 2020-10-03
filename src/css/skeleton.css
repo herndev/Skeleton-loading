@@ -1,0 +1,136 @@
+.sk, .sk-avatar, .sk-block, .sk-text {
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-name: skeleton;
+          animation-name: skeleton;
+  background: #d8d8d8;
+}
+
+.sk-avatar {
+  border-radius: 100%;
+}
+
+.sk-text {
+  border-radius: 8px;
+}
+
+.sk-text:after {
+  content: ".";
+}
+
+@-webkit-keyframes skeleton {
+  0% {
+    background: #ededed;
+    color: #ededed;
+  }
+  15% {
+    background: #e8e8e8;
+    color: #e8e8e8;
+  }
+  20% {
+    background: #e4e4e4;
+    color: #e4e4e4;
+  }
+  25% {
+    background: #dedede;
+    color: #dedede;
+  }
+  30% {
+    background: #dcdcdc;
+    color: #dcdcdc;
+  }
+  40% {
+    background: #dbdbdb;
+    color: #dbdbdb;
+  }
+  60% {
+    background: #dcdcdc;
+    color: #dcdcdc;
+  }
+  70% {
+    background: #dedede;
+    color: #dedede;
+  }
+  80% {
+    background: #e4e4e4;
+    color: #e4e4e4;
+  }
+  85% {
+    background: #e8e8e8;
+    color: #e8e8e8;
+  }
+  100% {
+    background: #ededed;
+    color: #ededed;
+  }
+}
+
+@keyframes skeleton {
+  0% {
+    background: #ededed;
+    color: #ededed;
+  }
+  15% {
+    background: #e8e8e8;
+    color: #e8e8e8;
+  }
+  20% {
+    background: #e4e4e4;
+    color: #e4e4e4;
+  }
+  25% {
+    background: #dedede;
+    color: #dedede;
+  }
+  30% {
+    background: #dcdcdc;
+    color: #dcdcdc;
+  }
+  40% {
+    background: #dbdbdb;
+    color: #dbdbdb;
+  }
+  60% {
+    background: #dcdcdc;
+    color: #dcdcdc;
+  }
+  70% {
+    background: #dedede;
+    color: #dedede;
+  }
+  80% {
+    background: #e4e4e4;
+    color: #e4e4e4;
+  }
+  85% {
+    background: #e8e8e8;
+    color: #e8e8e8;
+  }
+  100% {
+    background: #ededed;
+    color: #ededed;
+  }
+}
+
+.skeleton .blk-1, .skeleton .avt-1 {
+  height: 50px;
+  width: 50px;
+}
+
+.skeleton .blk-2, .skeleton .avt-2 {
+  height: 100px;
+  width: 100px;
+}
+
+.skeleton .blk-3, .skeleton .avt-3 {
+  height: 150px;
+  width: 150px;
+}
+
+.skeleton .blk-4, .skeleton .avt-4 {
+  height: 200px;
+  width: 200px;
+}
+/*# sourceMappingURL=skeleton.css.map */
