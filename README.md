@@ -1,4 +1,4 @@
-<a href="http://fvcproductions.com"><img src="https://i1.wp.com/codemyui.com/wp-content/uploads/2019/11/Pure-CSS-Skeleton-Screen-Gleam-Animation-for-light-dark-and-grey-mode-Card-UI.gif?fit=880%2C440&ssl=1" title="FVCproductions" alt="FVCproductions"></a>
+<img src="https://i1.wp.com/codemyui.com/wp-content/uploads/2019/11/Pure-CSS-Skeleton-Screen-Gleam-Animation-for-light-dark-and-grey-mode-Card-UI.gif?fit=880%2C440&ssl=1" title="Skeleton loading" alt="Skeleton loading">
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
