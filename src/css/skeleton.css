@@ -133,4 +133,14 @@
   height: 200px;
   width: 200px;
 }
+
+.skeleton .blk-5, .skeleton .avt-5 {
+  height: 250px;
+  width: 250px;
+}
+
+.skeleton .blk-6, .skeleton .avt-6 {
+  height: 200px;
+  width: 200px;
+}
 /*# sourceMappingURL=skeleton.css.map */
